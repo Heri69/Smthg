@@ -1,0 +1,378 @@
+body {
+  margin: 0;
+ 
+}
+
+.falut {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  top: 515px;
+  left: 0;
+}
+
+.faluttext{
+  font-size: 30px;
+  font-family: sans-serif;
+  color: limegreen;
+  margin-left: 250px;
+ margin-top: 60px;
+}
+
+.lock {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  top: 564px;
+  left: 1600px;
+ 
+
+}
+
+.hlava {
+    text-align: center;
+    background-color: limegreen;
+    color: white;
+    padding: 19px;
+    font-family: sans-serif;
+}
+
+.tlacitka{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.tlacitko {
+    background-color:white;
+    color:limegreen;
+    border: 3px solid black;
+    margin: 10px;
+    padding: 21px;
+    width: 100px;
+}
+
+.tlacitko3 {
+    background-color:white;
+    color:limegreen;
+    border: 3px solid black;
+    margin: 10px;
+    padding: 21px;
+    width: 150px;
+}
+
+.tlacitko:hover {
+    background-color: limegreen;
+    color: white;
+}
+
+.tlacitko3:hover {
+    background-color: limegreen;
+    color: white;
+}
+
+.otevdoba {
+  
+    border-radius: 70px;
+    color: black;
+    padding: 30px;
+    font-family: sans-serif;
+    margin: 30px;
+    border: 10px black solid;
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 30px;
+    
+}
+
+.otevdoba1 {
+    color: limegreen;
+    font-family: sans-serif;
+    font-size: 220%;
+    
+}
+
+.obrazdomov {
+  background-image: url("../img/banner1.jpg");
+  background-repeat: no-repeat; 
+  background-position: bottom;
+  background-size: cover;
+  height: 100vh;
+  width: 100%; 
+}
+
+.domovs {
+  color: black;
+  text-shadow: 1px 1px white;
+  text-align: center;
+  font-family: sans-serif;
+  border: 9px ;
+  padding: 25px;
+  width: 30%;
+  margin: 0 auto;
+  font-size: 30px;
+  
+}
+
+
+.nabnad {
+  text-align: center;
+  font-family: sans-serif;
+  color: limegreen;
+  font-size: 30px;
+}
+
+.nab1 {
+  color: limegreen;
+  font-family: sans-serif;
+  text-align: left;
+  margin: 15px;
+  font-size: 45px;
+  
+}
+
+.nabb1{
+  font-family: sans-serif;
+  font-size: larger;
+  text-align: left;
+  margin: 15px;
+
+}
+
+.nab2 {
+font-family: sans-serif;
+color: limegreen;
+text-align: right;
+font-size: 45px;
+margin: 15px;
+margin-top: -50px;
+
+
+}
+
+.nabb2{
+  font-family: sans-serif;
+  text-align: right;
+  font-size: larger;
+  margin: 15px;
+  margin-top: -500px;
+
+}
+
+.palma{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  top: 515px;
+  left: 1610px;
+}
+
+.bonasi{
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  top: 609px;
+  left: auto;
+}
+
+.kytik{
+  position: absolute;
+  left: auto;
+  bottom: 100px;
+
+}
+
+
+
+.llink{
+  color: limegreen;
+  margin-left: 500px;
+  margin: 0 auto;
+  margin-left: 44%;
+  font-size: 20px;
+  font-family: sans-serif;
+
+}
+
+
+
+.onas {
+  text-align: center;
+  font-family: sans-serif;
+  border: 9px ;
+  padding: 25px;
+  width: 30%;
+  margin: 0;
+  font-size: 24px;
+}
+
+.nastym{
+  color: limegreen;
+  font-family: sans-serif;
+  position: fixed;
+  text-align: center;
+  top: 215px;
+  left: 815px;
+}
+
+.astat1{
+  position: fixed;
+  font-family: sans-serif;
+  font-size: 19px;
+  right: 11px;
+  top: 300px;
+
+}
+
+.milos1{
+  position: fixed;
+  font-family: sans-serif;
+  font-size: 19px;
+  right: 8px;
+  top: 500px;
+
+}
+
+.ivos1{
+  position: fixed;
+  font-family: sans-serif;
+  font-size: 19px;
+  right: 1px;
+  top: 710px;
+}
+
+
+.cas {
+  font-family: sans-serif;
+  font-size: 20px;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: limegreen;
+    color: white;
+    text-align: center;
+    padding: 25px;
+    font-family: sans-serif;
+  }
+
+
+  .goback {
+
+    margin: 15px;
+    
+  }
+
+  .astat{
+    position: absolute;
+    bottom: 0;
+    right: 90px;
+    top: 220px;
+    left: 1000px;
+  }
+
+  .milos {
+    position: absolute;
+    bottom: 0;
+    right: 90px;
+    top: 420px;
+    left: 1000px;
+  }
+  
+  .ivos{
+    position: absolute;
+    bottom: 0;
+    right: 90px;
+    top: 620px;
+    left: 1000px;
+  }
+  
+
+
+
+
+
+
+
+  
+.login-header,
+.login p {
+  margin-top: 0;
+  margin-bottom: 0;
+  
+}
+
+
+.login-troj {
+  width: 0;
+  margin-right: auto;
+  margin-left: auto;
+  border: 12px solid transparent;
+  border-bottom-color: limegreen;
+}
+
+.login-header {
+  background: limegreen;
+  padding: 20px;
+  font-size: 1.4em;
+  font-weight: normal;
+  text-align: center;
+  text-transform: uppercase;
+  color: #fff;
+}
+
+.login-cont {
+  background: #ebebeb;
+  padding: 12px;
+}
+
+
+.login p {
+  padding: 12px;
+}
+
+.login input {
+  box-sizing: border-box;
+  display: block;
+  width: 100%;
+  border-width: 1px;
+  border-style: solid;
+  padding: 16px;
+  outline: 0;
+  font-family: sans-serif;
+  font-size: 0.95em;
+}
+
+.login input[type="email"],
+.login input[type="heslo"] {
+  background: #fff;
+  border-color: #bbb;
+  color: #555;
+}
+
+
+.login input[type="email"]:focus,
+.login input[type="heslo"]:focus {
+  border-color: #888;
+}
+
+.login input[type="submit"] {
+  background: limegreen;
+  border-color: transparent;
+  color: #fff;
+  cursor: pointer;
+}
+
+.login input[type="submit"]:hover {
+  background: limegreen;
+}
+
+
+.login input[type="submit"]:focus {
+  border-color: limegreen;
+}
